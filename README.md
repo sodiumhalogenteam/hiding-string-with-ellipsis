@@ -2,7 +2,7 @@
 Turn long string into a short version. "thisisareallycrazysupermassivelongdomain.com" >> into >> "thisisareallycra...domain.com"
 
 mock
-![](https://www.dropbox.com/s/mdk0r1qmuxo6itn/Screenshot%202018-12-18%2011.17.33.png?dl=0)
+![](https://github.com/sodiumhalogenteam/hiding-string-with-ellipsis/blob/master/assets/images/example-mock.png?raw=true)
 
 ```javascript
 
