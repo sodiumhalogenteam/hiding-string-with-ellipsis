@@ -1,8 +1,11 @@
 # hiding-string-with-ellipsis
 Turn long string into a short version. "thisisareallycrazysupermassivelongdomain.com" >> into >> "thisisareallycra...domain.com"
 
-mock
+## mock
+
 ![](https://github.com/sodiumhalogenteam/hiding-string-with-ellipsis/blob/master/assets/images/example-mock.png?raw=true)
+
+## starting snippet
 
 ```javascript
 
